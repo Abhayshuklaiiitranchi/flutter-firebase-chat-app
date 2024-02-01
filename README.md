@@ -1,6 +1,6 @@
 # my_chat_app
 
-A new Flutter project.
+A chat app pertaining to basic needs such as direct interaction between two users.
 
 ## Getting Started
 
